@@ -1,1 +1,1 @@
-Chống coppy   <script src='https://centralland.com.vn/wp-content/themes/flatsome/js/redirectcopy.js' type='text/javascript'></script>
+<script src='https://centralland.com.vn/wp-content/themes/flatsome/js/redirectcopy.js' type='text/javascript'></script>
